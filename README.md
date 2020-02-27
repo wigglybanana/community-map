@@ -5,7 +5,7 @@ This is a list of Godot regional communities, it is used as source data to gener
 
 To add your community, create a pull request with a locations/region-name.cfg file. The file format is as follows:
 ```
-Name: <The name of the city or region>
+Name: <The name of the community>
 Country: <Country code in alpha-2 https://www.iban.com/country-codes>
 [Coordinates: <Optional for cities, the coordinates on the map as latitude, longitude, like "23.5505° S, 46.6333° W" >]
 Link: <Name>,<URL>
