@@ -3,13 +3,13 @@ This is a list of Godot regional communities, it is used as source data to gener
 
 ## Submitting your community
 
-To add your community, create a pull request with a list/<community_name>.cfg text file. 
+To add your community, create a pull request with a list/<community-name>.cfg text file. 
   
-In this case <community_name> is the name of your community, translated to english and using snae_case. As an example:
+In this case <community_name> is the name of your community, translated to english and using lowercase and dashes. As an example:
   
-* godot_in_spanish.cfg
-* godot_rio_de_janeiro.cfg
-* godot_germany.cfg
+* godot-engine-in-spanish.cfg
+* rio-de-janeiro.cfg
+* germany.cfg
  
  
 
